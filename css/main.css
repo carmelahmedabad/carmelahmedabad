@@ -198,7 +198,7 @@ body > section {
 }
 
 .social{
-  text-align: right;
+  text-align: left;
 }
 
 .social-share{
@@ -271,12 +271,12 @@ input.search-form:hover {
 }
 
  .navbar-nav{
-  margin-top: 20px;
+  margin-top: 10px;
  }
 
 .navbar-nav>li{
-  margin-left: 35px;
-  padding-bottom: 28px;
+  margin-left: 15px;
+  padding-bottom: 18px;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -284,7 +284,7 @@ input.search-form:hover {
   margin: 0;
   border-radius: 3px;
   color: #fff;
-  line-height: 26px;
+  line-height: 8px;
   display: inline-block;
 }
 
@@ -365,6 +365,7 @@ input.search-form:hover {
 
 #main-slider {
   position: relative;
+  margin-top: 5px;
 }
 
 .no-margin {
