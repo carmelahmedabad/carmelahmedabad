@@ -1539,7 +1539,10 @@ ul.social_icons li  a i{
 /*************************
 ********* Portfolio CSS ******
 **************************/
-
+#gallery {
+  background: #000 url(../images/portfolio/full/stu71.png);
+  background-size: cover;
+}
 #portfolio_page {
   margin-top: 115px;
   padding-bottom: 0;
